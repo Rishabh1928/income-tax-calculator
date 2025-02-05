@@ -25,3 +25,7 @@ This is a Streamlit-based web application that calculates income tax liability u
 - Python 3.7+
 - Streamlit
 - Pandas
+
+## Try the app here:
+
+[Latest Tax Calculator](https://income-insights-incometaxcalc.streamlit.app/)
